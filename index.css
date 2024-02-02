@@ -1,0 +1,25 @@
+.container{
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+*{
+    background-color: pink;
+}
+.h11{
+    font-size: 40px;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(78, 4, 4);
+    font-weight: 500px;
+
+}
+.playerwin{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 3fr;
+    h1{
+        margin-right: 200px;
+    }
+    
+}
